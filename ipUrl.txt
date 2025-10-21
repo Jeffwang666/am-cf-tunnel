@@ -1,7 +1,5 @@
 https://raw.githubusercontent.com/Jeffwang666/am-cf-tunnel/refs/heads/main/ipHK.txt@proxyip.hk.cmliussss.net
 https://raw.githubusercontent.com/Jeffwang666/am-cf-tunnel/refs/heads/main/ipJP.txt@proxyip.jp.cmliussss.net
 https://raw.githubusercontent.com/Jeffwang666/am-cf-tunnel/refs/heads/main/ipUS.txt@proxyip.us.cmliussss.net
-https://raw.githubusercontent.com/Jeffwang666/am-cf-tunnel/refs/heads/main/ipv4.csv
-
 
 
